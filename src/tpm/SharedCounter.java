@@ -1,5 +1,4 @@
-
-package tmp.locks;
+package tpm;
 
 public class SharedCounter {
     private int value = 0;
